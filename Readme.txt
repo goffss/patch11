@@ -1,10 +1,10 @@
-;·ÖºÅ¿ªÍ·ÊÇ×¢ÊÍËµÃ÷£¬ÓÃÀ´ÁË½â²¹¶¡µÄÀàĞÍ(ÀıÈç£ºÊÇÔÂ¶È»ã×Ü²¹¶¡»¹ÊÇ°²È«ĞÔ¸üĞÂ²¹¶¡)£¬ÎÄµµÔÊĞíÓĞ¿ÕĞĞ
+;åˆ†å·å¼€å¤´æ˜¯æ³¨é‡Šè¯´æ˜ï¼Œç”¨æ¥äº†è§£è¡¥ä¸çš„ç±»å‹(ä¾‹å¦‚ï¼šæ˜¯æœˆåº¦æ±‡æ€»è¡¥ä¸è¿˜æ˜¯å®‰å…¨æ€§æ›´æ–°è¡¥ä¸)ï¼Œæ–‡æ¡£å…è®¸æœ‰ç©ºè¡Œ
 
-;2021-11 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x64 ÏµÍ³µÄÔÂ¶È°²È«ÖÊÁ¿»ã×Ü
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x64_7536d20ab5c66ee4156f408044a6c65482352acf.msu
+;2021-12 é€‚ç”¨äº Windows 8.1 åŸºäº x64 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x64_6d9eb2beed6c47dcc395371503d718fc061b3b80.msu
 
-;2021-11 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x86 ÏµÍ³µÄÔÂ¶È°²È«ÖÊÁ¿»ã×Ü
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x86_9e24efca570d32cf36029feb853f88c168226a04.msu
+;2021-12 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x86_9127c444f99c522aa23221c7a8a6607089f2bb8f.msu
 
-;2021-11 Windows 10 1809 »ùÓÚ x64 ÏµÍ³µÄÀÛ¼Æ¸üĞÂ
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows10.0-kb5007206-x64_f8ccc7d4574581576e74d86ccacc7fbf47d050f6.msu
+;2021-12 Windows 10 1809 åŸºäº x64 ç³»ç»Ÿçš„ç´¯è®¡æ›´æ–°
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008218-x64_66e07f2fc23728ca0b8f395df15da52546e45e45.msu
